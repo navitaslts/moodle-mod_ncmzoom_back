@@ -1,8 +1,8 @@
 # moodle-mod_ncmzoom
 Moodle Plugin for Zoom.us
-## Getting started
-* Zoom master account needed
-* (OPTIONAL) Amazon S3 for recordings management
+## Installation
+* Zoom API key and secret required. See https://developer.zoom.us/   
+* (OPTIONAL) Connect storage solution. Recordings management requires storage solution. 
 ## Licence
 This project is licensed under the GNU GPL v3 license - see the [LICENSE.md](LICENSE.md) for the details
 ## Acknowledgments
