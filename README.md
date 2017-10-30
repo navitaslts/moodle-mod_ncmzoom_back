@@ -2,7 +2,7 @@
 Moodle Plugin for Zoom.us
 ## Installation
 * Zoom API key and secret required. See https://developer.zoom.us/   
-* (OPTIONAL) Connect storage solution. Recordings management requires storage solution. 
+* (OPTIONAL) Connect storage solution. Recordings management requires AWS account.
 ## Documentation 
 See Wiki https://github.com/navitaslts/moodle-mod_ncmzoom/wiki 
 ## Licence
